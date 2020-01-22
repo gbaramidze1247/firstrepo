@@ -1,4 +1,4 @@
-first commit change
+fst commit change
 Second commit change
 Third commit change
 Fourth commit change
